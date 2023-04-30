@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Avangardum.AvangardumUnityUtilityLib
 {
-    public static class TaskExtensions
+    public static class CoroutineExtensions
     {
         public static Task ToTask(this Coroutine coroutine)
         {
