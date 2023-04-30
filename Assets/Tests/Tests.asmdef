@@ -3,7 +3,8 @@
     "rootNamespace": "Avangardum.AvangardumUnityUtilityLib.Tests",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "AvangardumUnityUtilityLib"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
